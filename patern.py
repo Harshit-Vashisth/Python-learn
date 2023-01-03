@@ -5,5 +5,5 @@ while i<n :
     while j<n:
         print('*',end=" ")
         j=j+1
-    print()
+    print(" ")
     i=i+1
