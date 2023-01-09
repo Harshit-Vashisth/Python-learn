@@ -50,3 +50,10 @@ print(a.pop(5))
 a=[1,5,4,32,7]
 a.sort()
 print(a)
+
+max(a)
+b=[5,4,3,2,1]
+print(b.index(5))
+
+print(1 in b)
+
