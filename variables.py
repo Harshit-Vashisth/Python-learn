@@ -10,3 +10,10 @@ def f3():
     a=21
 f3()
 print(a)
+
+def f4():
+    a=30
+    return a
+print(a)
+g=f4()
+print(g)
