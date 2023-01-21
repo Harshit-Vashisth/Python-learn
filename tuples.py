@@ -19,5 +19,15 @@ for i in range(2,6) :
 
 print(4 in b)
 
-print(len(b))
+print(len(f))
 
+a=(1,2,4)
+b=(3,5,7)
+c=a+b
+d=a,b
+print(c)
+print(d)
+
+#repeatition
+a=a*3
+print(a)
