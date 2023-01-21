@@ -31,3 +31,14 @@ print(d)
 #repeatition
 a=a*3
 print(a)
+
+a=(2,3)
+print(max(a))
+print(min(a))
+b=(1,14,1.5,4,15.5)
+print(min(b))
+print(max(b))
+
+#using tuple function
+l=[1,2,2,3,4,5]
+print(tuple(l))
