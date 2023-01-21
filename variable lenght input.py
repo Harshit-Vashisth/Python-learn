@@ -16,3 +16,13 @@ print(sum(3,4))
 print(sum(1,2,3,4,5,6,7,8,9,10))
 
 ## diffreent values to be return together like
+def sum(a,b):
+    return a*b,a+b
+
+a,b=sum(4,5)
+#either the values to retrun and store like a and b be same or u can just use one varible the values input will be in the form of  tuples
+
+#like
+
+a=sum(5,6)
+print(a)
